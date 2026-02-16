@@ -1,0 +1,13 @@
+{
+  "name": "memory-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for memory management - add, search, and retrieve memories and daily notes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["mcp", "memory", "notes", "recall"],
+  "author": "Cipher",
+  "license": "ISC"
+}
